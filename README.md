@@ -1,5 +1,5 @@
 -  Hi, I’m Aryan shedge
--  I’m interested in reading books, learning new things!!  
+-  I’m interested in reading books and learning new things!!  
 -  I’m currently doing diploma in AIML
 
 
