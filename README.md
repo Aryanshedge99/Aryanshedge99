@@ -1,6 +1,6 @@
-- 👋 Hi, I’m Aryanshedge99
-- 👀 I’m interested in reading books 
-- 🌱 I’m currently doing diploma in AIML
+-  Hi, I’m Aryan shedge
+-  I’m interested in reading books, learning new things!!  
+-  I’m currently doing diploma in AIML
 
 
 
